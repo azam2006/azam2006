@@ -16,7 +16,7 @@ and develop impactful technology solutions.
 ---
 
 ## 📊 GitHub Stats
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azam2006&show_icons=true&theme=transparent)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azam2006&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azam2006&layout=compact&theme=tokyonight)
 
