@@ -11,20 +11,7 @@ and develop impactful technology solutions.
 
 ## 🧰 Tech Stack
 
-![skills](https://skillicons.dev/icons?i=python,nodejs,mongodb,postgres,js,ts,html,css,bootstrap,git,ai)
-
----
-
-## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azam2006&show_icons=true&theme=transparent)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azam2006&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azam2006&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Contribution Activity
-
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=azam2006&theme=react-dark&hide_border=true)
+![skills](https://skillicons.dev/icons?i=python,nodejs,mongodb,postgres,js,ts,html,css,bootstrap,git)
 
 ---
 
